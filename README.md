@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hi there! 👋 
 
-<!--
-**emkay3002/emkay3002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
+I’m Eman Khalid, a Software Engineering Student passionate about backend development, API design, and system architecture. I love solving problems, contributing to open-source projects, and building efficient solutions.
 
-Here are some ideas to get you started:
+💡 Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend & API Development
+
+AI Search Algorithms (Uninformed, Informed, Local Search)
+
+System Design & Scalability
+
+Data Structures & Algorithms
+
+🌱 Currently Learning:
+
+Advanced Java Testing (90%+ Code Coverage)
+
+Flutter & Laravel Backend Integration
+
+Docker
+
+AI Local Search Algorithms
+
+🔨 Projects
+🚀 Java Projects:
+
+Prison Management Information System (PMIS)
+
+🐍 Python Projects:
+
+Genetic Algorithm Automated Test Case Generation
+
+Word Ladder Game (BFS, UCS, A*)
+
+⚡ C++ Projects:
+
+Racecar Game (Data Structures)
+
+Ludo Game (OS Project)
+
+📫 Connect with Me
+LinkedIn: Eman Khalid
+
+GitHub: emkay3002
+
+📌 Fun Fact: When I’m not coding, I’m either running 🏃‍♀️ or exploring new tech!
