@@ -1,48 +1,45 @@
-## Hi there! 👋 
+### Hi there!  
 
-👩‍💻 About Me
-I’m Eman Khalid, a Software Engineering Student passionate about backend development, API design, and system architecture. I love solving problems, contributing to open-source projects, and building efficient solutions.
+#### 👩‍💻 About Me  
 
-💡 Interests:
+I’m **Eman Khalid**, a **Software Engineering Student** passionate about **backend development, API design, and system architecture**. I love solving problems, contributing to **open-source projects**, and building efficient solutions.  
 
-Backend & API Development
+💡 **Interests:**  
+- Backend & API Development  
+- AI Search Algorithms (Uninformed, Informed, Local Search)  
+- System Design & Scalability  
+- Data Structures & Algorithms  
 
-AI Search Algorithms (Uninformed, Informed, Local Search)
+🌱 **Currently Learning:**  
+- **Advanced Java Testing** (90%+ Code Coverage)  
+- **Flutter & Laravel Backend Integration**  
+- **Docker**  
+- **AI Local Search Algorithms**  
 
-System Design & Scalability
+---  
 
-Data Structures & Algorithms
+#### 🔨 Projects  
 
-🌱 Currently Learning:
+🚀 **Java Projects:**  
+- [Prison Management Information System (PMIS)](https://github.com/emkay3002/PMIS.git)  
 
-Advanced Java Testing (90%+ Code Coverage)
+🐍 **Python Projects:**  
+- [Genetic Algorithm Automated Test Case Generation](https://github.com/emkay3002/GA-Automated-Test-Case-Generation.git)  
+- [Word Ladder Game (BFS, UCS, A*)](https://github.com/emkay3002/Word-Ladder-Game.git)  
 
-Flutter & Laravel Backend Integration
+⚡ **C++ Projects:**  
+- [Racecar Game (Data Structures)](https://github.com/emkay3002/DS---Racecar-Game.git)  
+- [Ludo Game (OS Project)](https://github.com/tamimthememe/ludo_OS.git)  
 
-Docker
+---  
 
-AI Local Search Algorithms
+#### 📫 Connect with Me  
 
-🔨 Projects
-🚀 Java Projects:
+- **LinkedIn**: [Eman Khalid](https://www.linkedin.com/in/eman-khalid-b5b3a4216/) 
 
-Prison Management Information System (PMIS)
+📌 **Fun Fact:** When I’m not coding, I’m either **running** 🏃‍♀️ or exploring new tech!  
 
-🐍 Python Projects:
+---
 
-Genetic Algorithm Automated Test Case Generation
+Thanks for visiting! 😊 Feel free to **star ⭐ some of my repositories** and let’s connect! 🚀
 
-Word Ladder Game (BFS, UCS, A*)
-
-⚡ C++ Projects:
-
-Racecar Game (Data Structures)
-
-Ludo Game (OS Project)
-
-📫 Connect with Me
-LinkedIn: Eman Khalid
-
-GitHub: emkay3002
-
-📌 Fun Fact: When I’m not coding, I’m either running 🏃‍♀️ or exploring new tech!
